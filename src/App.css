@@ -1,3 +1,27 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* .bgd{
+    background-color:"${bgdColor}";
+} */
+
+/* .active{
+   color: red
+}
+ .inactive {
+    @apply text-gray-600
+ } */
+
+.arrow{
+   @apply absolute text-black size-7 cursor-pointer
+}
+.inactive-current-img{
+   display: none;
+}
+.inactive-current-span{
+   background-color:rgb(254, 254, 254);
+}
+.current-span{
+   background-color:gray;
+}
