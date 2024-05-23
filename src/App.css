@@ -25,3 +25,82 @@
 .current-span{
    background-color:gray;
 } */
+
+/* Theme changer */
+/* .root{
+   text-align: center;
+   text-transform:capitalize ;
+   background-color: lightblue;
+   color: #000;
+   margin: 2px;
+   padding: 2px;
+   @apply w-screen h-screen
+}
+.heading-light{
+   @apply capitalize font-extrabold text-2xl  m-3 p-2 text-center bg-white text-black
+}
+.light-mode {
+   text-transform:capitalize ;
+   background-color: white;
+   color: #000;
+   margin: 2px;
+   padding: 2px;
+}
+.light-btn{
+   @apply capitalize py-1 px-4 m-3 bg-black text-gray-200
+} */
+
+/* scroll project */
+
+/* .scroll{
+   position: fixed;
+   width: 100%;
+   z-index:1;
+   background-color: rgb(14, 13, 13);
+   color: white;
+}
+.default{
+   width: 100%;
+   height:10px;
+   background-color: rgb(147, 142, 142);
+}
+.current {
+   width:0%;
+   height:10px;
+   background-color: rgb(240, 88, 28);
+} */
+
+/* TABS */
+
+/* .active {
+   background-color: black;
+   color: aliceblue;
+} */
+
+/* model popup */
+
+/* .heading {
+
+   margin: 20px;
+   padding:15px;
+   border: 1px solid rgb(170, 221, 221);
+   box-shadow: 0px 1px 10px 1px;
+   
+}
+.animate{
+   animation-duration: 0.5s;
+   animation-name: animation;   
+}
+@keyframes animation {
+   from {
+      left: -200px;
+      opacity: 0;
+   }
+   to{
+      right:0;
+      opacity: 1;
+   }
+} */
+
+/* github profile finder */
+
